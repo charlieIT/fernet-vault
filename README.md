@@ -20,7 +20,7 @@ git clone https://github.com/charlieIT/fernet-vault
 
 ### Install locally using `pip`
 ```bash
-pip install fernet-vault/
+pip3 install fernet-vault/
 ```
 
 # Usage
