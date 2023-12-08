@@ -1,0 +1,4 @@
+# FILE: .bandit
+[bandit]
+skils: B101  # skip "assert used" check
+tests: B101
